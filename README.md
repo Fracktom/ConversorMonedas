@@ -24,9 +24,19 @@ Este es un conversor de monedas, especialmente de pesos mexicanos  a diferentes 
 
 
 ## PANTALLA DE INICIO
-<p align = " Center"
-  <img src " ![j3KT9woA8edB](https://github.com/Fracktom/ConversorMonedas/assets/129825724/e13f4ac9-83eb-4b73-a05e-12196aef06cf)">
+
+<p align="center">
+  <img src="https://github.com/Fracktom/ConversorMonedas/assets/129825724/c78abedc-7450-430f-be75-917fa54c76aa" alt="Descripción de la imagen">
 </p>
+
+Mensaje de Bienvenida que indica que la aplicacion esta en uso, y se requiere pulsar click en el boton "ok" para comenzar.
+
+
+## CONVERSOR DE MONEDAS 
+
+
+
+
 
 
 
