@@ -34,6 +34,17 @@ Mensaje de Bienvenida que indica que la aplicacion esta en uso, y se requiere pu
 
 ## CONVERSOR DE MONEDAS 
 
+<p align="center">
+  <img src="https://github.com/Fracktom/ConversorMonedas/assets/129825724/9d7c399e-609a-4bce-ad35-0da3b584537e">
+</p >
+
+Esta es la pantalla en la que el usuario puede elegir la opcion de conversor de monedas
+
+<p align="center">
+  <img src="https://github.com/Fracktom/ConversorMonedas/assets/129825724/27be4f0e-7833-4c3a-9f39-d42542180004">
+</p >
+
+
 
 
 
