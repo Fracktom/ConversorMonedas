@@ -1,4 +1,4 @@
-# Conversor De Monedas Desarrollado En Java
+# Conversor De Monedas y Temperatura Desarrollado En Java
 <img alt="Static Badge" src="https://img.shields.io/badge/Version-1.0-brightgreen?style=Version%201.0">
 
 
@@ -40,6 +40,11 @@ Mensaje de Bienvenida que indica que la aplicacion esta en uso, y se requiere pu
 
 Asi es como se ejecuta la secuencia de una vez elegida la opcion de conversor de monedas.
 
+## CONVERSOR DE TEMPERATURA 
+
+<p align="center"">
+  <img src="https://github.com/Fracktom/ConversorMonedas/assets/129825724/bf6ef596-2f34-4c82-9fa4-0ced77a83488">
+</p> 
 
 
 
